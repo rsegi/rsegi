@@ -4,7 +4,6 @@
 
 - 🎓 I am using my github for university projects mostly
 - 🌱 I’m currently learning Rust, Typescript and Go
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to an Open Source project
 - 🐱‍👤 I'm also getting into playing guitar, surfing, and martial arts
   
@@ -35,6 +34,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+### Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rsegt/rsegt)
 <br />
 
 [website]: nothing
