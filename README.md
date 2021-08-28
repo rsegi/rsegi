@@ -1,6 +1,6 @@
 ### Hi there, I'm Raúl 👋
 
-## I'm a Developer, Student and Skateboarder!!
+## I'm a Developer, CS Student and Skateboarder!!
 
 - 🎓 I am using my github for university projects mostly
 - 🌱 I’m currently learning Rust, Typescript and Go
