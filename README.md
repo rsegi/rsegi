@@ -4,7 +4,6 @@
 
 - 🎓 I am using my github for university projects mostly
 - 🌱 I’m currently learning Rust, Typescript and Go
-- 🥅 2021 Goals: Contribute to an Open Source project
 - 🐱‍👤 I'm also getting into playing guitar, surfing, and martial arts
   
 ### Connect with me:
