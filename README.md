@@ -3,7 +3,7 @@
 ## I'm a Developer, CS Student and Skateboarder!!
 
 - 🎓 I am using my github for university projects mostly
-- 🌱 I’m currently learning Rust, Typescript and Go
+- 🌱 I’m currently learning Rust and Typescript
 - 🐱‍👤 I'm also getting into playing guitar, surfing, and martial arts
   
 ### Connect with me:
