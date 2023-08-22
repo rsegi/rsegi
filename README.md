@@ -8,7 +8,7 @@
   
 ### Connect with me:
 
-[<img align="left" alt="Raul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Raul | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 
