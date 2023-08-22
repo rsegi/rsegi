@@ -3,8 +3,8 @@
 ## I'm a Developer, CS Student and Skateboarder!!
 
 - 🎓 I am using my github for university projects mostly
-- 🌱 I’m currently learning Rust and Typescript
-- 🐱‍👤 I'm also getting into playing guitar, surfing, and martial arts
+- 🌱 I’m currently learning Go
+- 🐱‍👤 I'm also getting into playing guitar, surfing, and snowboarding
   
 ### Connect with me:
 
